@@ -5,7 +5,8 @@ Welcome!
 
 ## This is short info about this page:
 
-#### Stream One
+### Stream One
+
 ###### HTML5 link
 ###### CSS3 link
 ###### JavaScript link
@@ -13,7 +14,8 @@ Welcome!
 ###### Git link
 ###### GitHub link
 
-#### Stream Two
+### Stream Two
+
 ###### Python link
 ###### Flask link
 ###### MongoDB link
@@ -21,7 +23,8 @@ Welcome!
 ###### Git link
 ###### GitHub link
 
-#### Stream Three
+### Stream Three
+
 ###### Python link
 ###### Django link
 ###### Heroku link
